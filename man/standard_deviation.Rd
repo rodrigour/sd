@@ -16,6 +16,6 @@ the standard deviation
 Standard Deviation
 }
 \examples{
-standstandard_deviation(c(1,4,7,2,8,4,9,1))
+standard_deviation(c(1,4,7,2,8,4,9,1))
 }
 

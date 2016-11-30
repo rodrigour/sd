@@ -1,5 +1,5 @@
 Package: sd
-Title: Standard Deviation function
+Title: Standard Deviation and Standard Error Functions
 Version: 0.0.0.9000
 Authors@R: person("Rodrigo", "Coronado", email = "rodrigor@plusquan.com", role = c("aut", "cre"))
 Description: Function that calculates the standard deviation of a vector of numbers
