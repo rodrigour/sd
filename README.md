@@ -1,5 +1,10 @@
 # Standard Deviation Package
 
+**Build Package from Travis**
+
+[![Build Status](https://travis-ci.org/rodrigour/sd.svg?branch=master)](https://travis-ci.org/rodrigour/sd)
+
+
 This package has the following functions:
 
 - standard_deviation(x)
